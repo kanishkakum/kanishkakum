@@ -1,3 +1,6 @@
+# 💫 About Me:
+- I am currently working on SQL developer<br>- Upskilling myself in Data industry<br>- I am currently learning Data science<br>- Ask me about Data related stuffs
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kanishk-kumar-35a5b2138/) 
